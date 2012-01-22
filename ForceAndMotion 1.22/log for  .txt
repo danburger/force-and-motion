@@ -1,0 +1,1 @@
+[set mass 9, set force 4, setup, repeat 570 [go], set mass 9, setup, set force 4, set mass 10, setup, set force 4, null, setup, set force 4, setup, set mass 12, set force 4, set force 4, setup, set mass 13, set mass 14, set force 4, setup, set mass 15, set force 4, setup, setup, set mass 15, set force 4, set force 4, setup, set mass 15, set force 4, set mass 15, setup]
